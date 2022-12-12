@@ -1,2 +1,3 @@
 DIR
   BAS - Basic, read the Makefile ... it explains everything about this version of baisc
+  SH - Bourne shell, some where in there you can add cd, pwd and other commands you are used to.
